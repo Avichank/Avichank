@@ -1,7 +1,7 @@
 Pavel Pazhenov
 ===============================
 
-🤔 I am a 3rd (★★★) year MTUCI student. At the moment I am studying a lot of frontend technologies and gaining experience working on projects. In my repositories you can see some of my work, both large and small. My stack: React + TypeScript (JavaScript). 
+🤔 I am a 3rd year MTUCI student. At the moment I am studying a lot of frontend technologies and gaining experience working on projects. In my repositories you can see some of my work, both large and small. My stack: React + TypeScript (JavaScript). 
 
 ⚡ I started my journey from the 10th grade at school, but because of the exam, I had to postpone this hobby. Resumed the learning process at the beginning of the second year of the university. Over the past year, I have studied a large number of technologies, gained experience. 
 
